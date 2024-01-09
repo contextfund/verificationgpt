@@ -1,7 +1,7 @@
 # VerificationGPT
 Verify a scientific claim using Brave and arXiv search and reasoning, powered by OpenAI. A product of www.context.fund.
 
-## Usage
+## Try it
 [www.verificationgpt.org/](https://www.verificationgpt.org)
 
 ## Examples
