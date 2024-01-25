@@ -14,13 +14,11 @@ def get_index():
 @app.route('/search', methods=['GET'])
 def get_search():
     query = quart.request.args.get('query')
-    count = quart.request.args.get('count', default=20, type=int)
-    offset = quart.request.args.get('offset', default=0, type=int)
     api_key = quart.request.headers.get('Authorization')
     if api_key != os.environ["CONTEXT_API_KEY"]:
         return 'Invalid API key'
     else:
-        r = brave_search.search(query, count=count, offset=offset)
+        r = brave_search.search(query)
         return r
 
 @app.route('/pubmed_search', methods=['GET'])
