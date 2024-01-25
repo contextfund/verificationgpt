@@ -1,3 +1,5 @@
 quart==0.19.4
 Requests==2.31.0
 arxiv
+pymed
+pypdb
