@@ -3,3 +3,5 @@ Requests==2.31.0
 arxiv
 pymed
 pypdb
+c2pa-python
+iocursor
