@@ -8,7 +8,7 @@ Verify a scientific claim using Brave and arXiv search and reasoning, powered by
 Q: What experimental evidence is there for relativistic mass becoming infinite at lightspeed?
 https://chat.openai.com/share/9261956a-1e93-42d3-98ce-cf3d223bb2e3
 
-More examples on [Bluesky](https://bsky.app/profile/verificationgpt.bsky.social)
+More examples on [Bluesky](https://bsky.app/profile/verificationgpt.context.fund)
 
 ## Feature Requests & Feedback
 ### [Add an issue](https://github.com/contextfund/verificationgpt/issues/new)
