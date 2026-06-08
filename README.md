@@ -25,7 +25,5 @@ python verify_server.py
 curl "localhost:5000/search?query=test" -H "Authorization:$CONTEXT_API_KEY"
 ```
 
-### [Join the Discord Channel](https://discord.com/channels/1187603745463353355/1187603785120485437)
-
 ## Related Projects & Funding
 ### [Join the subreddit](https://www.reddit.com/r/contextfund/)
